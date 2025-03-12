@@ -1,0 +1,9 @@
+.jsx-container {
+    border: 1px dashed #0081e3;
+    width: 60%;
+}
+
+.jsx-container .logo {
+    height: 180px;
+    width: 180px;
+}
