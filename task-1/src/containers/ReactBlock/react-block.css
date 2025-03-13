@@ -1,0 +1,9 @@
+.react-container {
+    width: 60%;
+    border: solid 1px #5bc58e;
+}
+
+.react-container .logo {
+    width: 180px;
+    
+}
